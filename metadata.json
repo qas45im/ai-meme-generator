@@ -1,0 +1,6 @@
+{
+  "name": "AI Meme Generator",
+  "description": "Analyze images or templates with Google Gemini to generate 5 hilarious context-aware meme captions instantly overlayable on your canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
